@@ -1,0 +1,15 @@
+C:\Users\Pradyush Office\Desktop\Dahlia_Assignment\LoginManager.Application\bin\Debug\net6.0\LoginManager.Application.deps.json
+C:\Users\Pradyush Office\Desktop\Dahlia_Assignment\LoginManager.Application\bin\Debug\net6.0\LoginManager.Application.dll
+C:\Users\Pradyush Office\Desktop\Dahlia_Assignment\LoginManager.Application\bin\Debug\net6.0\LoginManager.Application.pdb
+C:\Users\Pradyush Office\Desktop\Dahlia_Assignment\LoginManager.Application\bin\Debug\net6.0\LoginManager.Core.dll
+C:\Users\Pradyush Office\Desktop\Dahlia_Assignment\LoginManager.Application\bin\Debug\net6.0\LoginManager.Core.pdb
+C:\Users\Pradyush Office\Desktop\Dahlia_Assignment\LoginManager.Application\obj\Debug\net6.0\LoginManager.Application.csproj.AssemblyReference.cache
+C:\Users\Pradyush Office\Desktop\Dahlia_Assignment\LoginManager.Application\obj\Debug\net6.0\LoginManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pradyush Office\Desktop\Dahlia_Assignment\LoginManager.Application\obj\Debug\net6.0\LoginManager.Application.AssemblyInfoInputs.cache
+C:\Users\Pradyush Office\Desktop\Dahlia_Assignment\LoginManager.Application\obj\Debug\net6.0\LoginManager.Application.AssemblyInfo.cs
+C:\Users\Pradyush Office\Desktop\Dahlia_Assignment\LoginManager.Application\obj\Debug\net6.0\LoginManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\Pradyush Office\Desktop\Dahlia_Assignment\LoginManager.Application\obj\Debug\net6.0\LoginMan.CE32ED10.Up2Date
+C:\Users\Pradyush Office\Desktop\Dahlia_Assignment\LoginManager.Application\obj\Debug\net6.0\LoginManager.Application.dll
+C:\Users\Pradyush Office\Desktop\Dahlia_Assignment\LoginManager.Application\obj\Debug\net6.0\refint\LoginManager.Application.dll
+C:\Users\Pradyush Office\Desktop\Dahlia_Assignment\LoginManager.Application\obj\Debug\net6.0\LoginManager.Application.pdb
+C:\Users\Pradyush Office\Desktop\Dahlia_Assignment\LoginManager.Application\obj\Debug\net6.0\ref\LoginManager.Application.dll
